@@ -1,6 +1,6 @@
 # Debfetch
 
-Information in your terminal with Debian distribuition.
+Information in your terminal with Debian distribution.
 
 It can serve as a header for your terminal.
 
