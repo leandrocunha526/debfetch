@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Include 'os-release' to grub Debian pretty name
+# Include 'os-release' to grab Debian pretty name
 
 . /etc/os-release
 
